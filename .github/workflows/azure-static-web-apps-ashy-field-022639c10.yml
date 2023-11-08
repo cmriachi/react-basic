@@ -5,6 +5,7 @@ on:
     branches:
       - main
       - test
+      - petest
   pull_request:
     types: [opened, synchronize, reopened, closed]
     branches:
